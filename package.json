@@ -1,0 +1,27 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "sudoku for pinephone",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaenseklein/sudoku.git"
+  },
+  "keywords": [
+    "sudoku",
+    "pinephone"
+  ],
+  "author": "gaenseklein.net",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gaenseklein/sudoku/issues"
+  },
+  "homepage": "https://github.com/gaenseklein/sudoku#readme",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
